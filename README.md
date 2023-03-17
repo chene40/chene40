@@ -15,18 +15,19 @@
   
 </ol>
 
-<h2> Current Github Stats </h2>
+<h2 align="center"> Current Github Stats </h2>
 <div align="center" > 
   <img src="https://github-readme-stats.vercel.app/api?username=chene40" />
   <br/>
   <figcaption> There were more stats last year, I promise! (School's just been very busy ahaha) </figcaption>
 </div>
   
+<h2 align="center"> Tech Stack </h2>
 <h3 align="center"> Here are some of the front-end tech stack that I work with! </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,expressjs,redux,jest" />
 </div>
-  
+
 <br/>
 
 <h3 align="center"> Some mobile development technologies/languages that I've been trying to get into </h3>
@@ -57,7 +58,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn package manager" width="5%" />
 </div>
 
-<h2 align="center"> Feel free to contact me! </h2>
+<h2 align="center"> Feel free to contact me! Always down to meet new people :) </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/chene40/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20%" /> 
