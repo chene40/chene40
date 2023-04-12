@@ -18,10 +18,14 @@
 <h2 align="center"> Current Github Stats </h2>
 <div align="center" > 
   <img src="https://github-readme-stats.vercel.app/api?username=chene40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chene40&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chene40"/>
   <br/>
   <figcaption> There were more stats last year, I promise! (School's just been very busy ahaha) </figcaption>
 </div>
   
+<!-- https://github.com/tandpfun/skill-icons -->
+
 <h2 align="center"> Tech Stack </h2>
 <h3 align="center"> Here are some of the front-end tech stack that I work with! </h3>
 <div align="center">
