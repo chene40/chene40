@@ -1,16 +1,16 @@
 <h1 align="center"> Hello there! I'm Eric ~ </h1>
 
-<hp align="center"> Get to know more a little better :) </hp>
+<hp align="center"> Get to know me a little better :) </hp>
 <ol>
-  <li> I'm currently finishing up my third year of <b>Software Engineering Co-op (B.Eng)</b> at <b>McMaster University</b> </li>
+  <li> I'll be entering my fourth year for <b>Software Engineering Co-op (B.Eng)</b> at <b>McMaster University</b> </li>
   <li> Passionate about front-end, full-stack and mobile development! </li>
   <li> I love trying out new things! (e.g. nature, food, music, tech, sports, games, festivals) </li>
-  <li> I will be joining <a href="https://www.esri.com/en-us/home"> ESRI </a> as a Software Engineer Intern this upcoming Summer 2023! </li>
+  <li> I will be joining <a href="https://arcticwolf.com">Arctic Wolf</a> as a Software Developer Intern this upcoming Summer 2024! </li>
   <li> Had previous experiences working in software development </li>
     <ul> 
+      <li> <a href="https://www.esri.com/en-us/home"> Esri - Software Engineer Intern (8 months) </a> </li>
       <li> <a href="https://electrification.mcmaster.ca/"> McMaster University + CERC @ MARC - Software Developer Intern (4 months) </a> </li>
       <li> <a href="https://gunkii.com/"> Gunkii - Lead Shopify Software Development Intern (4 months) </a> </li>
-      <li> <a href="https://designlab.twigoh.com/"> Twigoh - Full-Stack Software Engineer Intern (4 months) </a> </li>
     </ul>
   
 </ol>
@@ -33,11 +33,6 @@
 </div>
 
 <br/>
-
-<h3 align="center"> Some mobile development technologies/languages that I've been trying to get into </h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</div>
 
 <br/>
 
