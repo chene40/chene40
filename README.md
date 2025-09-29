@@ -2,12 +2,13 @@
 
 <hp align="center"> Get to know me a little better :) </hp>
 <ol>
-  <li> Fourth year <b>Software Engineering Co-op (B.Eng)</b> student at <b>McMaster University</b> </li>
+  <li> Current Software Engineer at <em><a href="https://temporal.io/">Temporal Technologies</a></em>!</li>
+  <li> Software Engineering Co-op (B.Eng) graduate from <em>McMaster University</em> </li>
   <li> Passionate about front-end, full-stack and mobile development! </li>
   <li> I love trying out new things! (e.g. nature, food, music, tech, sports, games, festivals) </li>
-  <li> Had previous experiences working in software development </li>
+  <li> Previously at: </li>
     <ul> 
-      <li> <a href="https://arcticwolf.com">Arctic Wolf - Software Developer Intern (4 months) </a> </li>
+      <li> <a href="https://arcticwolf.com">Arctic Wolf Networks - Software Developer Intern (4 months) </a> </li>
       <li> <a href="https://www.esri.com/en-us/home"> Esri - Software Engineer Intern (8 months) </a> </li>
       <li> <a href="https://electrification.mcmaster.ca/"> McMaster University + CERC @ MARC - Software Developer Intern (4 months) </a> </li>
       <li> <a href="https://gunkii.com/"> Gunkii - Lead Shopify Software Development Intern (4 months) </a> </li>
